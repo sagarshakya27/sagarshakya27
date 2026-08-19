@@ -77,7 +77,7 @@ const sagar = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,bootstrap&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative"/>
 
 </div>
 

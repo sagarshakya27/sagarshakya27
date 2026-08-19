@@ -172,30 +172,6 @@ CRUD-based phonebook management application using Java web technologies and MySQ
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sagarshakya27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarshakya27&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sagarshakya27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">

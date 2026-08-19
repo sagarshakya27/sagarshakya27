@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Shakya
 
-### 💻 Full Stack Java Developer | MCA Student | Software Developer
+### 💻 Full Stack Developer | MCA Student | Software Developer
 
 I am an MCA student and aspiring Full Stack Java Developer passionate about building practical and user-friendly applications.
 

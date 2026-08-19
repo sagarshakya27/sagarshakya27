@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=SAGAR%20SHAKYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Java+Developer;MCA+Student;Spring+Boot+%7C+React+Developer;AI%2FML+%7C+Generative+AI+Enthusiast;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MCA+Student;Spring+Boot+%7C+React+Developer;AI%2FML+%7C+Generative+AI+Enthusiast;Building+Real-World+Applications" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 # 👋 Hi, I'm Sagar Shakya
 
-### 💻 Full-Stack Java Developer | 🤖 AI/ML Enthusiast | 🎓 MCA Student
+### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 MCA Student
 
-I am an MCA student and Full-Stack Java Developer passionate about building real-world applications using **Java, Spring Boot, React, REST APIs, databases and AI/ML technologies**.
+I am an MCA student and Full-Stack Developer passionate about building real-world applications using **Java, . Net , Spring Boot, React, REST APIs, databases and AI/ML technologies**.
 
 I enjoy learning new technologies, solving programming problems and turning ideas into practical software solutions.
 
